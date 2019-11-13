@@ -1,7 +1,7 @@
-#Book List App
-##Tutorial from Traversy Media
+# Book List App
+## Tutorial from Traversy Media
 
-###Concepts
+### Concepts
 1. JavaScript class syntax and construction
 2. Local Storage implementation
 
